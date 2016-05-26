@@ -1,0 +1,172 @@
+﻿Bienvenid@. A continuación, vamos a pedirte que durante esta sesión realices una tarea\nmuy sencilla.
+
+Antes de comenzar, nos gustaría agradecer tu participación en este experimento, así como\n
+también recordarte que los datos personales que nos proporciones (nombre, apellidos y/o \n
+teléfono, si nos los has facilitado para concertar esta sesión) son confidenciales: \n
+únicamente te incluiremos en nuestra lista de participantes, para saber que has hecho \n
+la tarea y no pedírtelo nuevamente en el futuro (desde un punto de vista experimental \n
+debes saber que, como norma general, es poco recomendable realizar la misma tarea en más\n
+de una ocasión). Lo que nos interesa son tus respuestas a lo largo de la sesión (a \n
+continuación te explicaremos en qué consiste la tarea): además, para elaborar el informe\n
+experimental no consideraremos tus datos aisladamente, sino que tendremos en cuenta el\n
+promedio del grupo. Por esta razón hemos anotado si eres un chico o una chica y tu edad\n
+(para que podamos caracterizar la muestra en el informe: respuestas promedio y edad del\n
+grupo, cuántos chicos y chicas hay… Sin referencia específica alguna a participantes\n
+concret@s).\n\n
+Si te parece correcto, antes de continuar leyendo las instrucciones, por favor, rellena\n
+la copia que tienes a tu lado y pulsa la tecla correspondiente. En caso contrario, por\n
+favor, avisa al experimentador.
+
+En esta tarea debes localizar una ‘T’ rotada entre un conjunto de letras ‘L’ también\n
+rotadas, e indicar hacia dónde apunta la ‘T’ (izquierda o derecha). Si el extremo más\n
+largo de la ‘T’ apunta hacia la IZQUIERDA, pulsa la tecla correspondiente a la letra ‘Z’,\n
+y si apunta hacia la DERECHA, pulsar la tecla correspondiente a la letra ‘M’.\n
+Debes responder lo más RÁPIDAMENTE POSIBLE, y al mismo tiempo, debes tratar de cometer\n
+el MENOR NÚMERO DE ERRORES POSIBLE. Para ello, mantén colocado el dedo índice de cada\n
+mano sobre las teclas de respuesta durante toda la tarea (dedo índice de la mano\n
+izquierda, sobre la tecla ‘Z’, y dedo índice de la mano derecha, sobre la tecla ‘M’).\n
+Cada vez que tu respuesta sea correcta escucharás un tono agudo muy breve, y cada vez que\n
+cometas un error escucharás un tono grave más largo. Antes de comenzar cada ensayo, debes\n
+mirar un punto de fijación de color blanco que se mostrará en el centro de la pantalla\n
+durante un momento, y que te indicará que debes prepararte para comenzar.\n\n
+Si en algún momento necesitas hacer una pausa, puedes hacerlo al FINAL de cada bloque de\n
+ensayos, pero NO DURANTE la realización de uno de los bloques, pues debes tratar de\n
+responder lo más rápidamente posible. Es recomendable que NO SALGAS de la cabina\n
+experimental durante las pausas (en caso de que las necesites).\n\n
+La tarea consta de varios bloques experimentales, de tal forma que, cuando finalices cada\n
+uno de ellos, se te pedirá que pulses una tecla para comenzar el siguiente, y así hasta\n
+que termine la tarea. Cuando finalice la sesión experimental, se te presentará un resumen\n
+con tus datos (tiempo medio de respuesta y porcentaje de aciertos).\n\n
+Recuerda:\n\n
+	-‘T’ apuntando hacia la IZQUIERDA: tecla ‘Z’ con el índice de tu mano izquierda.\n
+	-‘T’ apuntando hacia la DERECHA: tecla ‘M’ con el índice de la tu mano derecha.\n
+NO OLVIDES RESPONDER LO MÁS RÁPIDAMENTE QUE PUEDAS, TRATANDO AL MISMO TIEMPO DE\n
+COMETER EL MENOR NÚMERO DE ERRORES POSIBLE.\n\n
+Si tienes alguna duda, plantéasela al experimentador antes de continuar. En caso\n
+contrario, pulsa la BARRA ESPACIADORA para comenzar el BLOQUE DE PRÁCTICA, después del\n
+cual comenzarán los BLOQUES EXPERIMENTALES.\n
+Pulsa la tecla correspondiente para continuar la sesión.
+
+Vamos a comenzar el BLOQUE DE PRÁCTICA. Intenta responder con la mayor rapidez y\n
+precisión. Al finalizar el bloque podrás ver los datos correspondientes al tiempo medio\n
+de respuesta y a tu porcentaje de aciertos, tal y como se te mostrarán al terminar\n
+la sesión.\n\n
+Pulsa la BARRA ESPACIADORA para comenzar.
+
+Vamos a comenzar los BLOQUES EXPERIMENTALES. Como antes, intenta responder con la mayor\n
+rapidez y precisión.\n\n
+Si tienes alguna duda, plantéasela al experimentador antes de continuar. En caso\n
+contrario, pulsa la BARRA ESPACIADORA para comenzar.
+
+Hemos terminado este bloque.\n\n
+No olvides responder lo más rápidamente posible y al mismo tiempo tratar de cometer el\n
+menor número de errores posible.\n\n
+Si tienes alguna duda, plantéasela al experimentador antes de continuar. En caso\n
+contrario, coloca los dedos sobre las teclas de respuesta igual que antes, y pulsa\n
+la BARRA ESPACIADORA para comenzar.
+
+Hasta aquí ha llegado esta parte de la sesión. Ahora vamos a pedirte que realices otra\n
+tarea, un poco diferente de la anterior.\n\n
+Durante los BLOQUES ANTERIORES has tenido que BUSCAR UNA LETRA ‘T’ ROTADA y RESPONDER A\n
+SU ORIENTACIÓN, con RAPIDEZ y PRECISIÓN, pulsando la tecla correspondiente (‘Z’ si\n
+apuntaba hacia la izquierda y ‘M’ si apuntaba hacia la derecha).\n\n
+AHORA YA NO DEBES RESPONDER A LA ORIENTACIÓN DE LA LETRA ‘T’. AHORA, en cada ensayo verás\n
+en la pantalla DOCE LETRAS ‘L’ ROTADAS Y NINGUNA LETRA ‘T’. Tu tarea consiste en indicar\n
+DÓNDE CREES QUE SE HABRÍA PRESENTADO la LETRA ‘T’ en cada ensayo, esto es, debes INDICAR\n
+en CUÁL DE LOS CUATRO CUADRANTES que aparecen en la pantalla APARECERÍA LA LETRA ‘T’.\n
+Hazlo de forma muy rápida y sin pensar, casi sin mirar, pues lo que has aprendido hasta\n
+ahora, aunque no seas consciente de ello, debería ayudarte a acertar en cierto número de\n
+ensayos.\n\n
+Para responder, utiliza las teclas ‘Q’, ‘O’, ‘S’ y ‘K’. Para indicar que la letra ‘T’ se\n
+habría presentado en el cuadrante superior izquierdo, utiliza la tecla ‘Q’; para indicar\n
+que aparecería en el CUADRANTE SUPERIOR DERECHO, utiliza la tecla ‘O’; para indicar que\n
+se habría presentado en el CUADRANTE INFERIOR IZQUIERDO, utiliza la tecla ‘S’; y para\n
+indicar que aparecería en el CUADRANTE INFERIOR DERECHO, utiliza la tecla ‘K’.\n
+Así:\n\n
+	-ARRIBA A LA IZQUIERDA: tecla ‘Q’.\n\n
+	-ARRIBA A LA DERECHA: tecla ‘O’.\n\n
+	-ABAJO A LA IZQUIERDA: tecla ‘S’.\n\n
+	-ABAJO A LA DERECHA: tecla ‘K’.\n\n
+Coloca el DEDO ÍNDICE de las manos izquierda y derecha sobre las teclas ‘S’ y ‘K’,\n
+respectivamente, y el DEDO CORAZÓN izquierdo y derecho sobre las teclas ‘Q’ y ‘O’,\n
+respectivamente. Como antes, es importante que mantengas los dedos sobre las teclas\n
+de respuesta durante toda la tarea.\n\n
+Ahora ya no escucharás ningún tono que te indique si tus respuestas son o no correctas\n
+después de responder en cada ensayo. Es importante que te dejes llevar por tu primera\n
+impresión (INTUICIÓN) en cada ensayo, y pulses muy rápidamente la tecla correspondiente\n
+al cuadrante en que esperarías encontrar la letra ‘T’. Por tanto, aunque ahora no es\n
+imprescindible responder lo más rápidamente posible, sí es conveniente que respondas muy\n
+rápido para facilitar que tu intuición actúe de modo más eficiente guiando tus respuestas.\n\n
+Si tienes alguna DUDA, es IMPRESCINDIBLE QUE AVISES al experimentador. En caso contrario,\n
+pulsa la tecla correspondiente para empezar.
+
+Hasta aquí ha llegado esta parte de la sesión. Ahora vamos a pedirte que realices una\n
+última tarea, similar a la anterior.\n\n
+Durante los BLOQUES ANTERIORES has tenido que indicar DÓNDE CREES QUE SE HABRÍA PRESENTADO\n
+la LETRA ‘T’ en cada ensayo, esto es, debías INDICAR en CUÁL DE LOS CUATRO CUADRANTES que\n
+aparecen en la pantalla APARECERÍA LA LETRA ‘T’. AHORA lo harás de nuevo, PERO en lugar de\n
+ver doce letras ‘L’ rotadas verás OCHO. Como antes, hazlo de forma muy rápida y sin\n
+pensar, casi sin mirar, pues lo que has aprendido hasta ahora, aunque no seas consciente\n
+de ello, debería ayudarte a acertar en cierto número de ensayos.\n\n
+Para responder, utiliza las teclas ‘Q’, ‘O’, ‘S’ y ‘K’. Para indicar que la letra ‘T’ se\n
+habría presentado en el cuadrante superior izquierdo, utiliza la tecla ‘Q’; para indicar\n
+que aparecería en el CUADRANTE SUPERIOR DERECHO, utiliza la tecla ‘O’; para indicar que se\n
+habría presentado en el CUADRANTE INFERIOR IZQUIERDO, utiliza la tecla ‘S’; y para indicar\n
+que aparecería en el CUADRANTE INFERIOR DERECHO, utiliza la tecla ‘K’.\n
+Así:\n\n
+	-ARRIBA A LA IZQUIERDA: tecla ‘Q’.\n\n
+	-ARRIBA A LA DERECHA: tecla ‘O’.\n\n
+	-ABAJO A LA IZQUIERDA: tecla ‘S’.\n\n
+	-ABAJO A LA DERECHA: tecla ‘K’.\n\n
+Coloca el DEDO ÍNDICE de las manos izquierda y derecha sobre las teclas ‘S’ y ‘K’,\n
+respectivamente, y el DEDO CORAZÓN izquierdo y derecho sobre las teclas ‘Q’ y ‘O’,\n
+respectivamente. Como antes, es importante que mantengas los dedos sobre las teclas de\n
+respuesta durante toda la tarea.\n\n
+Como antes,  no escucharás ningún tono que te indique si tus respuestas son o no correctas\n
+después de responder en cada ensayo. Es importante que te dejes llevar por tu primera\n
+impresión (INTUICIÓN) en cada ensayo, y pulses muy rápidamente la tecla correspondiente al\n
+ cuadrante en que esperarías encontrar la letra ‘T’. Por tanto, aunque ahora no es\n
+imprescindible responder lo más rápidamente posible, sí es conveniente que respondas muy\n
+rápido para facilitar que tu intuición actúe de modo más eficiente guiando tus respuestas.\n\n
+Si tienes alguna DUDA, es IMPRESCINDIBLE QUE AVISES al experimentador. En caso contrario,\n
+pulsa la tecla correspondiente para empezar.
+
+Hemos terminado este bloque. Si tienes alguna duda, plantéasela al experimentador antes de\n
+continuar. En caso contrario, coloca los dedos sobre las teclas de respuesta igual que\n
+antes, y pulsa la BARRA ESPACIADORA para comenzar.
+
+/*BUSQUEDA NUEVA*/
+"En esta tarea debes localizar una ‘T’ rotada entre un conjunto de letras ‘L’ también\n
+rotadas, e indicar hacia dónde apunta la ‘T’ (izquierda o derecha). Si el extremo más\n
+largo de la ‘T’ apunta hacia la IZQUIERDA, pulsa la tecla correspondiente a la letra ‘Z’,\n
+y si apunta hacia la DERECHA, pulsar la tecla correspondiente a la letra ‘M’.\n
+Debes responder lo más RÁPIDAMENTE POSIBLE, y al mismo tiempo, debes tratar de cometer\n
+el MENOR NÚMERO DE ERRORES POSIBLE. Para ello, mantén colocado el dedo índice de cada\n
+mano sobre las teclas de respuesta durante toda la tarea (dedo índice de la mano\n
+izquierda, sobre la tecla ‘Z’, y dedo índice de la mano derecha, sobre la tecla ‘M’).\n
+Cada vez que tu respuesta sea correcta escucharás un tono agudo muy breve, y cada vez que\n
+cometas un error escucharás un tono grave más largo. Antes de comenzar cada ensayo, debes\n
+mirar un punto de fijación de color blanco que se mostrará en el centro de la pantalla\n
+durante un momento, y que te indicará que debes prepararte para comenzar.\n\n
+Si en algún momento necesitas hacer una pausa, puedes hacerlo al FINAL de cada bloque de\n
+ensayos, pero NO DURANTE la realización de uno de los bloques, pues debes tratar de\n
+responder lo más rápidamente posible. Es recomendable que NO SALGAS de la cabina\n
+experimental durante las pausas (en caso de que las necesites).\n\n
+La tarea consta de varios bloques experimentales, de tal forma que, cuando finalices cada\n
+uno de ellos, se te pedirá que pulses una tecla para comenzar el siguiente, y así hasta\n
+que termine la tarea. Al final de cada bloque se te dará información relativa al tiempo\n
+medio de respuesta (milisegundos) empleado durante el bloque, y al porcentaje de aciertos.\n
+Este porcentaje debe ser igual o superio al 90% para que tus datos sean útiles y podeamos\n
+analizarlos. Sin embargo, si en algún bloque tu porcentaje de aciertos no supera el 90%, esto\n
+no significa que debas dejar la tarea: en este caso, utiliza esta información (tu porcentaje)\n
+para tratar de mejorar tu ejecución en el siguiente bloque de ensayos. No obstante, no olvides\n
+que la tarea requiere PRECISIÓN PERO TAMBIÉN RAPIDEZ.\n
+Recuerda:\n\n
+    -‘T’ apuntando hacia la IZQUIERDA: tecla ‘Z’ con el índice de tu mano izquierda.\n\n
+    -‘T’ apuntando hacia la DERECHA: tecla ‘M’ con el índice de la tu mano derecha.\n\n
+NO OLVIDES RESPONDER LO MÁS RÁPIDAMENTE QUE PUEDAS, TRATANDO AL MISMO TIEMPO DE\n
+COMETER EL MENOR NÚMERO DE ERRORES POSIBLE.\n\n
+Si tienes alguna duda, plantéasela al experimentador antes de continuar. En caso\n
+contrario, pulsa la BARRA ESPACIADORA para comenzar el BLOQUE DE PRÁCTICA, después del\n
+cual comenzarán los BLOQUES EXPERIMENTALES.\n
+Pulsa la BARRA ESPACIADORA para continuar la sesión."
